@@ -33,7 +33,7 @@ Things to do
 ### Rules/Requirements
 
 1. This task needs to be completed and submitted back within 7 days of receiving it, if not stated otherwise.
-2. You must use React for solving this task. The record should be displayed in different Component than the one used for the input form. You are strictly advised to use Redux to persist the input data to display in another component. You must use React Router for the components.
+2. You must use React for solving this task. The record should be displayed in different Component than the one used for the input form. You are strictly advised to use Redux to persist the input data (State management). You must use React Router for routing.
 3. You must have a README.md file in the root, **well formatted in markdown** (like the one you are reading now) that explains your solution.
 4. Use of any extra open-source library or package is allowed.
 5. You must use git and submit this task as a **private or public git repository on github/bitbucket** another option is a zip/tar file.
